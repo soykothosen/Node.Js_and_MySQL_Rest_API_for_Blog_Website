@@ -1,0 +1,23 @@
+{
+  "name": "node.js_and_mysql_rest_api_for_blog_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soykothosen/Node.Js_and_MySQL_Rest_API_for_Blog_Website.git"
+  },
+  "author": "Soykot Hosen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soykothosen/Node.Js_and_MySQL_Rest_API_for_Blog_Website/issues"
+  },
+  "homepage": "https://github.com/soykothosen/Node.Js_and_MySQL_Rest_API_for_Blog_Website#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
